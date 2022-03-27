@@ -2,25 +2,25 @@ Here are the python codes for automated lecture notes generator extension "Earle
 
 Python Library Requirements for this codes are:-
 
-requests
+- requests
 
-os
+- os
 
-sys
+- sys
 
-time
+- time
 
-string
+- string
 
-nltk
+- nltk
 
-yake
+- yake
 
-keybert
+- keybert
 
-dotenv
+- dotenv
 
-openai
+- openai
 
 All of these can be installed by using
 
