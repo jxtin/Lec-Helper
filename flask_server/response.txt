@@ -1,6 +1,6 @@
 
 
-1. Electromagnetism is one of the fundamental forces of nature.
+1. Electromagnetism is one of the four fundamental forces of nature.
 2. Early on, electricity and magnetism were studied separately and regarded as separate phenomena.
 3. Hans Christian Ursa discovered that the two were related. Electric currents give rise to magnetism.
 4. Michael Faraday discovered a converse that magnetism could induce electric currents, and James Clerk Maxwell put the whole thing together in a unified theory of electromagnetism.

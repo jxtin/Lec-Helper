@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>EarLens</title>
+</head>
+
+<body>
+    <h1>EarLens</h1>
+    <h3>Output of the file you uploaded:</h3>
+    <p>
+        {{transcript}}
+    </p>
+    <br>
+    <br>
+    <h3>Summary:</h3>
+    <br>
+    <p>{{summary}}</p>
+    <br>
+    <br>
+    <h3>Keywords and wiki</h3>
+    <br>
+    <p>
+        {% for keyword,wiki in kw_and_wiki.items() %}
+        <a href="{{wiki}}">{{keyword}}</a>
+        <br>
+        {% endfor %}
+    </p>
+</body>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>EarLens</title>
+</head>
+
+<body>
+    <!--form to recieve txt file and send to server-->
+    Select mp3 file to be processed to generate notes: <br>
+    <form action="getfile" method="POST" enctype="multipart/form-data">
+        <br>
+        <input type="file" name="audio_recording"><br>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
