@@ -1,24 +1,24 @@
--Here are the python codes for automated lecture notes generator extension "Earlens" 
+Here are the python codes for automated lecture notes generator extension "Earlens" 
 
--Python Library Requirements(requirements)  for this codes are 
+Python Library Requirements for this codes are 
 
--requests
+requests
 
--os
+os
 
--sys
+sys
 
--time
+time
 
--string
+string
 
--nltk
+nltk
 
--yake
+yake
 
--keybert
+keybert
 
--dotenv
+dotenv
 
--openai
+openai
 
