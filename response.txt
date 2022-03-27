@@ -1,0 +1,4 @@
+
+- Electromagnetism is a force of nature that was studied separately from electricity and magnetism early on. 
+- Hans Christian Ørsted discovered that electric currents give rise to magnetism and Michael Faraday discovered that magnetism could induce electric currents. 
+- James Clerk Maxwell put the whole thing together in a unified theory of electromagnetism and Maxwell's equations further indicated that electromagnetic waves existed.
